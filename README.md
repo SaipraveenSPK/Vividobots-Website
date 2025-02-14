@@ -1,2 +1,2 @@
 # Vividobots-Website
-A simple responsive website which represents the product of the company
+A simple responsive Landing Site to showcase the product of the painting machine.
